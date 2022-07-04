@@ -1,0 +1,18 @@
+h1 {
+  color: blue;
+}
+
+nav {
+  position: sticky;
+  top: 0;
+}
+
+#welcome-section {
+  height: 100vh;
+}
+
+@media (max-width: 1024px) {
+  h1 {
+    color: red;
+  }
+}
